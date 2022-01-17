@@ -36,11 +36,6 @@ export default {
     }
   },
   methods: {
-    handleClick() {
-      console.log(this.$refs.name)
-      this.$refs.name.classList.add("active")
-      this.$refs.name.focus()
-    },
     toggleModal() {
       this.showModal = !this.showModal
     },
