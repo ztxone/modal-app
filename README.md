@@ -1,4 +1,4 @@
-# modal-project
+# modal-app
 
 ## Project setup
 ```
